@@ -2,6 +2,7 @@ package Configuracion;
 
 public class Trans
 {
+    public static final int Version= 1;
     //Nombre de la base de datos
     public static final String DBname= "PM012P";
     //Tabla Personas
